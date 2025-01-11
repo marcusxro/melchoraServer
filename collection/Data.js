@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const atlasUri = 'mongodb+srv://marcussalopaso1:zedmain1525@cluster0.m8fd2iw.mongodb.net/Scanner';
+const atlasUri = 'uri';
 
 mongoose.connect(atlasUri, {
   useNewUrlParser: true,
